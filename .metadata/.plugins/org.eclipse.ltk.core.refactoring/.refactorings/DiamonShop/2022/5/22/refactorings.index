@@ -1,0 +1,25 @@
+1653240639392	Rename type 'CartServiceIml'
+1653244981924	Delete element
+1653245243581	Move 'layouts' to 'views'
+1653246033727	Move 'cart.jsp' to 'cart'
+1653246055152	Rename resource 'cart.jsp'
+1653246089905	Rename resource 'listcart.jsp'
+1653246547135	Move 'cart' to 'user'
+1653312198163	Rename type 'UsersEntity'
+1653326551764	Rename resource 'bill'
+1653443456879	Rename resource 'BV.jsp'
+1653462643823	Delete element
+1653463578444	Move 'admin.jsp' to 'Admin'
+1653463585989	Move 'adminPage.jsp' to 'Admin'
+1653463589344	Move 'admin.jsp' to 'account'
+1653463600076	Rename resource 'Admin'
+1653463793255	Move 'adminPage.jsp' to 'account'
+1653463796683	Delete element
+1653464056196	Move 'adminPage.jsp' to 'admin'
+1653464636725	Delete element
+1653465006933	Move 'admin.jsp' to 'layouts'
+1653465420660	Move 'admin.jsp' to 'admin'
+1653465425515	Move 'admin.jsp' to 'user'
+1653465431946	Move 'admin.jsp' to 'layouts'
+1653465436718	Delete element
+1653466584941	Rename resource 'admin.jsp'

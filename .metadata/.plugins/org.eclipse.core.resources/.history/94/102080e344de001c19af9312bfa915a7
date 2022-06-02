@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Daonguoc {
+	public static int Reverse(int t) {
+		int reversed = 0;
+		while(t != 0) {
+			   int digit = t % 10;
+			   reversed = reversed * 10 + digit;
+			   t /= 10;
+			}
+		return reversed;
+	}
+	public static void main(String args[]) {
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		Reverse(t);
+	}
+}

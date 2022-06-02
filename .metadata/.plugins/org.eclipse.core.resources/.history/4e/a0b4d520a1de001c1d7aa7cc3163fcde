@@ -1,0 +1,42 @@
+import java.io.FileInputStream;
+import java.util.Scanner;
+
+public class SoNguyenTo {
+	public static boolean Prime(int n) {
+		int count = 0;
+		for (int i = 2; i < n; i++) {
+			if (n % i == 0) {
+				count += 1;
+			}
+			if (count > 2) {
+				return false;
+			}
+		}
+
+		return true;
+
+	}
+
+	public static void main(String args[]) throws Exception {
+		System.setIn(new FileInputStream("C:\\Users\\SnC\\Desktop\\Môn học kì 2 21-22\\STP/input.txt"));
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		for (int i = 1; i <= t; i++) {
+			int m = sc.nextInt();
+			int n = sc.nextInt();
+			int[] a = new int[n];
+			for (int j = m; j <= n; j++) {
+				for (int k = 0; k <=n - m; k++) {
+					if (Prime(j)) {
+						a[k] = j;
+					}
+				}
+				for (int k = 0; k < n - m; k++) {
+					System.out.println(a[k]);
+				}
+				System.out.println("\n");
+			}
+
+		}
+	}
+}

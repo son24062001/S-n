@@ -1,0 +1,14 @@
+<decorators defaultdir="/WEB-INF/views/layouts">
+	<decorator name="user" page="user.jsp">
+		<pattern>trang-chu</pattern>
+		<pattern>/</pattern>
+		
+	</decorator>
+	<decorator name="admin" page="adminV.jsp">
+		<pattern>/admin-page</pattern>
+		<pattern>/xem</pattern>
+		<pattern>/lsdh</pattern>
+	</decorator>
+	
+	
+</decorators>

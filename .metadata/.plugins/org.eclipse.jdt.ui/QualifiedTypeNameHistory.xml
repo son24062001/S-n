@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.ICartService"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dao.CartDao"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.CartServiceImpl"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.AccountServiceImpl"/>
+    <fullyQualifiedTypeName name="DiamonShop.Entity.MapperUsers"/>
+    <fullyQualifiedTypeName name="org.mindrot.jbcrypt.BCrypt"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.IBillsService"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dto.CartDto"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="DiamonShop.Entity.Bills"/>
+    <fullyQualifiedTypeName name="DiamonShop.Entity.BillDetail"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.BillsServiceImpl"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dto.BillsDtoMapper"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dao.BillsDao"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dto.BillsDto"/>
+    <fullyQualifiedTypeName name="DiamonShop.Entity.MapperAdmin"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.IAdminService"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dao.AdminDao"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.AdminServiceImpl"/>
+    <fullyQualifiedTypeName name="DiamonShop.Entity.Admin"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dao.UsersDao"/>
+    <fullyQualifiedTypeName name="DiamonShop.Entity.Users"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="DiamonShop.Dto.ProductsDto"/>
+    <fullyQualifiedTypeName name="DiamonShop.Service.User.ProductServiceImpl"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

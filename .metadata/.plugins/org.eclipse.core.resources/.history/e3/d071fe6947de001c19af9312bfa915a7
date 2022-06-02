@@ -1,0 +1,13 @@
+import java.io.FileInputStream;
+import java.util.Scanner;
+
+public class SoNguyenTo {
+	public static void main(String args[]) throws Exception {
+		System.setIn(new FileInputStream("C:\\Users\\SnC\\Desktop\\Môn học kì 2 21-22\\STP/input.txt"));
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		for(int i = 1; i<=t; i++) {
+			int m = sc.nextInt();
+			int n = sc.nextInt();
+		}
+}
